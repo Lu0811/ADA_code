@@ -20,6 +20,6 @@ void imprimir_cant_instrucciones(int N) {
 
 int main() {
 
-    funcion1(5);
+    imprimir_cant_instrucciones(5);
     return 0;
 }
